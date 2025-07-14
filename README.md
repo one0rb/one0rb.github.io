@@ -3,3 +3,5 @@
 This is my GitHub page!
 
 [Check out my Frontend Mentor Challenges](https://one0rb.github.io/frontend-mentor)
+
+[Check out these Fubon icons!](fubon_icons.md)
