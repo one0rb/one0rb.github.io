@@ -8,6 +8,10 @@ Check out these icons!
 
 ![icon3](img/IMG_2360.PNG)
 
-![icon 4](img/IMG_2361.PNG)
+![icon4](img/IMG_2361.PNG)
+
+![pic1](img/IMG_2362.PNG)
+
+![pic2](img/IMG_2363.PNG)
 
 [Back to the main page](README.md)
