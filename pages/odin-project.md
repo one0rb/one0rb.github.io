@@ -1,0 +1,2 @@
+- [Project: Odin Landing Page](https://one0rb.github.io/odin-landing-page)
+- [Project: Odin Recipes](https://one0rb.github.io/odin-recipes)
